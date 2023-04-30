@@ -1,12 +1,10 @@
 ✏️ This course was created by Jessica Chan.
-🔗 Jessica's YouTube Channel:   
-
- / thecodercoder  
-🔗 Jessica's Twitter: https://twitter.com/thecodercoder
+Jessica's YouTube Channel: https://www.youtube.com/@thecodercoder 
+ 
+Jessica's Twitter: https://twitter.com/thecodercoder
 
 💻 Starter files from Fontend Mentor: https://www.frontendmentor.io/challen...
 💻 Source code on GitHub: https://github.com/thecodercoder/fem-easybank
-https%3A%2F%2Fgithub.com%2Fthecodercoder%2F&v=aoQ6S1a32j8
 🔗 Responsive Design for Beginners course: https://coder-coder.com/responsive/
 
 ⭐️ Course Contents ⭐️
