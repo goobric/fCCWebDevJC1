@@ -1,0 +1,20 @@
+✏️ This course was created by Jessica Chan.
+🔗 Jessica's YouTube Channel:   
+
+ / thecodercoder  
+🔗 Jessica's Twitter: https://twitter.com/thecodercoder
+
+💻 Starter files from Fontend Mentor: https://www.frontendmentor.io/challen...
+💻 Source code on GitHub: https://github.com/thecodercoder/fem-easybank
+https%3A%2F%2Fgithub.com%2Fthecodercoder%2F&v=aoQ6S1a32j8
+🔗 Responsive Design for Beginners course: https://coder-coder.com/responsive/
+
+⭐️ Course Contents ⭐️
+⌨️ (0:00) Introduction
+⌨️ (0:30) Part 1: Setup and Navigation Bar
+⌨️ (49:52) Part 2: Animated Hamburger Menu
+⌨️ (1:21:28) Part 3: Animated Mobile Menu
+⌨️ (1:43:56) Part 4: Responsive Hero
+⌨️ (2:39:24) Part 5: 4-Column Features (flexbox)
+⌨️ (3:16:58) Part 6: 4-Column Articles (CSS grid)
+⌨️ (4:04:56) Part 7: Footer
