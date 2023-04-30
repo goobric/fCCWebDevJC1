@@ -3,7 +3,8 @@ Jessica's YouTube Channel: https://www.youtube.com/@thecodercoder
  
 Jessica's Twitter: https://twitter.com/thecodercoder
 
-💻 Starter files from Fontend Mentor: https://www.frontendmentor.io/challen...
+💻 Starter files from Fontend Mentor: https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN
+
 💻 Source code on GitHub: https://github.com/thecodercoder/fem-easybank
 🔗 Responsive Design for Beginners course: https://coder-coder.com/responsive/
 
